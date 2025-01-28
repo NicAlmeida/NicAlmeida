@@ -1,4 +1,4 @@
-### 💖Olá! Eu sou a Nicolly de Almeida
+### 💖Olá! Eu sou a Nicolly
 Sou apaixonada por tecnologia e desenvolvimento de software. Sou formada em **Análise e Desenvolvimento de Sistemas** pela **FIAP**, uma das principais faculdades de tecnologia do Brasil. Durante minha trajetória acadêmica e profissional, desenvolvi habilidades técnicas em várias linguagens de programação e frameworks, além de trabalhar em projetos desafiadores e inovadores. Atualmente estou cursando Desenvolvimento de Sistemas no SENAI e trabalhando como **aprendiz na CPTM**
 
 ---
