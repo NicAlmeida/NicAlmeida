@@ -14,11 +14,7 @@ Com a experiência adquirida ao longo dos anos, tenho familiaridade com as segui
 - **Kotlin**: Para desenvolvimento FrontEnd Mobile
 
 
-<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="70" height="70">
-<img src="https://img.icons8.com/?size=512&id=13441&format=png" alt="Python" width="70" height="70">
-<img src="https://img.icons8.com/?size=512&id=108784&format=png" alt="JavaScript" width="70" height="70">
-<img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" alt="SQL" width="70" height="70">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="Kotlin" width="60" height="60">
+<div style="display: flex; gap: 10px;"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="70" height="70"> <img src="https://img.icons8.com/?size=512&id=13441&format=png" alt="Python" width="70" height="70"> <img src="https://img.icons8.com/?size=512&id=108784&format=png" alt="JavaScript" width="70" height="70"> <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" alt="SQL" width="70" height="70"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" alt="Kotlin" width="60" height="60"> </div>
 
 ---
 
